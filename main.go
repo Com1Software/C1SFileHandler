@@ -1,5 +1,8 @@
+
 package main
-import "fmt"
-func main() {
-    fmt.Println("hello world")
-}
+
+ import "github.com/Com1Software/C1S"
+    
+ func main() {
+  c1s.cmd("hey there")
+ }
